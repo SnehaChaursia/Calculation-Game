@@ -1,0 +1,54 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family:COSMIC SANS MS;
+    background-color: #0f0f0f;
+    color: white;
+  }
+  
+  h1,p {
+    margin-bottom: 50px;
+    text-align: center;
+     color: WHITE;
+  }
+  
+  #question {
+    font-size: 24px;
+    margin-bottom: 15px;
+    text-decoration-color: white;
+  }
+  
+  input{
+    margin: 20px;
+    padding: 20px;
+    font-size: 18px;
+    width: 200px;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 18px;
+   background-color: #df55a1;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+   background-color: #8f4a70;
+  }
+  
+  #score {
+    margin-top: 20px;
+    font-size: 20px;
+  }
+  #message {
+    font-size: 20px ;
+  }
+  
