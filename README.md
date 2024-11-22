@@ -13,7 +13,7 @@ By combining fun and education, it allows them to learn and practice math while 
 # LANGUAGE & TECH:
 JAVASCIPT: For implimentation and functioning.
 HTML & CSS: For web page structure and designing
-# URL:
+# URL: if you want to try but yourself please visit:
 [game link](https://calutaorgame.netlify.app/)
 
 [Email](chaurasiasneha30@gmail.com)
