@@ -8,6 +8,7 @@ By combining fun and education, it allows them to learn and practice math while 
 **BASIC MATHEMATICAL OPERATION** : additions , multiplication , subtraction;
 **SCORE COUNTER**: Score upgrade after every right answer.
 **MESSAGE** it will show a message for giving correct and wrong asnwer.
+
 **Solution** Provide answer for wrong attempts.
 
 # LANGUAGE & TECH:
