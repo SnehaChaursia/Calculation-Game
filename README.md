@@ -5,9 +5,10 @@ With kids increasingly using smartphones, this game aims to make learning enjoya
 By combining fun and education, it allows them to learn and practice math while using their phones, making their screen time more productive.
 
 # FEATURES
-**BASIC MATHEMATICAL OPERATION** : additions , multiplication , subtraction;
+**BASIC MATHEMATICAL OPERATION** : additions , multiplication , subtraction.
 **SCORE COUNTER**: Score upgrade after every right answer.
 **MESSAGE**: it will show a message for giving correct and wrong asnwer.
+
  **Solution**: Provide answer for wrong attempts.
 
 # LANGUAGE & TECH:
